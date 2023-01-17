@@ -1,3 +1,3 @@
-module github.com/h2non/filetype
+module github.com/pdinfinera/filetype
 
 go 1.13
