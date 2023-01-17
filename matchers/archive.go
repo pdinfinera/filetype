@@ -59,7 +59,7 @@ var Archive = Map{
 	TypeCrx:    bytePrefixMatcher(crxMagic),
 	TypeCab:    Cab,
 	TypeDeb:    bytePrefixMatcher(debMagic),
-// 	TypeAr:     bytePrefixMatcher(arMagic),
+	TypeAr:     bytePrefixMatcher(arMagic),
 	TypeZ:      Z,
 	TypeLz:     bytePrefixMatcher(lzMagic),
 	TypeRpm:    Rpm,
